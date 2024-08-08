@@ -1,4 +1,4 @@
-# ![Profile Stats](https://github-readme-stats.vercel.app/api?username=GR3YH4TT3R93&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark)
+# ![Profile Stats](https://github-readme-stats.vercel.app/api?username=GR3YH4TT3R93&show_icons=true&hide_border=true&theme=onedark)
 
 # ![Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=GR3YH4TT3R93&hide_border=true&theme=onedark)
 
